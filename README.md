@@ -7,6 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Crud_en_Laravel
+
+Un pequeño CRUD desarrollado con Laravel (PHP)
+
+
+## Requisitos
+
+- PHP >= 7.4
+- Composer
+- MySQL
+- Node.js y NPM/Yarn
+
+## Instalación
+
+### Clonar el Repositorio
+
+```sh
+git clone https://github.com/tu_usuario/tu_repositorio.git
+cd tu_repositorio
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
