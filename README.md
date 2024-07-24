@@ -24,8 +24,10 @@ Un pequeño CRUD desarrollado con Laravel (PHP)
 ### Clonar el Repositorio
 
 ```sh
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/jn4varro/Crud_en_Laravel.git
+cd Crud_en_Laravel
+
+
 
 ## About Laravel
 
